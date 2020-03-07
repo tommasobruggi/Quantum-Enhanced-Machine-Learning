@@ -1,1 +1,1 @@
-# Quantum-Enhanced-Machine-Learning
+# Quantum Enhanced Machine Learning
